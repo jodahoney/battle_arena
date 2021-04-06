@@ -155,6 +155,9 @@
     <ClInclude Include="elf.h" />
     <ClInclude Include="human.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\..\portfolio\personal_portfolio\static\images\battle.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
